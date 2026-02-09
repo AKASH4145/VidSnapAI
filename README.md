@@ -33,28 +33,23 @@ for content creation workflows.The project is designed with a clean Flask archit
 ##  Project Structure
 
 VidsnapAI/
-│
-├── main.py # Flask app entry point
-├── config.py # App configuration
-├── generate_processes.py # Media / FFmpeg processing logic
-├── text_to_mp3.py # Text-to-speech logic
-├── test.py # Testing / experimentation
-│
-├── templates/ # HTML templates
-│ ├── base.html
-│ ├── index.html
-│ ├── create.html
-│ └── gallery.html
-│
-├── static/ # Static assets
-│ └── css/
-│ ├── style.css
-│ ├── create.css
-│ └── gallery.css
-│
-├── user_uploads/ # Runtime user uploads (git-ignored)
-│ └── .gitkeep
-│
+├── main.py                 # Flask app entry point
+├── config.py               # App configuration
+├── generate_processes.py   # Media / FFmpeg processing
+├── text_to_mp3.py          # Text-to-speech logic
+├── test.py                 # Testing / experimentation
+├── templates/              # HTML templates
+│   ├── base.html
+│   ├── index.html
+│   ├── create.html
+│   └── gallery.html
+├── static/                 # Static assets
+│   └── css/
+│       ├── style.css
+│       ├── create.css
+│       └── gallery.css
+├── user_uploads/           # Runtime user uploads (git-ignored)
+│   └── .gitkeep
 ├── .gitignore
 └── README.md
 
@@ -86,6 +81,6 @@ VidsnapAI/
 
 ## Author
 
-Akash GS
-Mechanical Engineering student exploring
+Akash GS |
+Mechanical Engineering student exploring 
 AI, computer vision, and applied Python development 
