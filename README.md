@@ -4,6 +4,8 @@
 VidsnapAI is a Python-based AI web application that generates reel-style audio content using
 AI-powered voice synthesis from the ElevenLabs API. It allows users to upload media (text, images, or video-related inputs) and process them into generated outputs such as text-to-speech audio, processed media, or AI-assisted transformations using FFmpeg and Python automation.
 
+Developed with mentor guidance. I understood and implemented core logic including routing and request handling.
+
 The project focuses on real-world AI API integration, backend development, and automation
 for content creation workflows.The project is designed with a clean Flask architecture and proper Git hygiene, making it scalable and production-ready.
 
