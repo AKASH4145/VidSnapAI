@@ -32,6 +32,13 @@ for content creation workflows.The project is designed with a clean Flask archit
 
 ##  Project Structure
 
+## Project Structure
+
+## Project Structure
+
+## Project Structure
+
+```text
 VidsnapAI/
 ├── main.py                 # Flask app entry point
 ├── config.py               # App configuration
@@ -52,6 +59,9 @@ VidsnapAI/
 │   └── .gitkeep
 ├── .gitignore
 └── README.md
+
+
+
 
 ---
 
@@ -82,5 +92,5 @@ VidsnapAI/
 ## Author
 
 Akash GS |
-Mechanical Engineering student exploring 
+Mechanical Engineering student exploring |
 AI, computer vision, and applied Python development 
