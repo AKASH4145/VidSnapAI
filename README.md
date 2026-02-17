@@ -98,5 +98,5 @@ python main.py
 ## Author
 
 Akash GS |
-Mechanical Engineering student exploring |
+Mechanical Engineering student exploring 
 AI, computer vision, and applied Python development 
