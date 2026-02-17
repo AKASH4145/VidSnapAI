@@ -63,9 +63,9 @@ VidsnapAI/
 
 ## Setup & Run
 
-git clone https://github.com/AKASH4145/VidSnapAI.git
-cd VidSnapAI
-pip install -r requirements.txt
+git clone https://github.com/AKASH4145/VidSnapAI.git >> 
+cd VidSnapAI >> 
+pip install -r requirements.txt >> 
 python main.py
 
 
